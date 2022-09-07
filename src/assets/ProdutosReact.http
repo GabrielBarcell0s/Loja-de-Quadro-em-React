@@ -1,0 +1,167 @@
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/XY3z4shZ/Emma.jpg", "The Promisse Neverland"],
+  "titulosVitrine":"The Promisse Neverland - Emma",
+  "precoVitrine": ["39,00","13,00","26,60"],
+  "titulosDetalhes": "The Promisse Neverland",
+  "personagem": "Emma",
+  "tamanho": "10x15"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/SNcvBBZF/Norman.jpg", "The Promisse Neverland"],
+  "titulosVitrine":"The Promisse Neverland - Norman",
+  "precoVitrine": ["39,00","13,00","26,60"],
+  "titulosDetalhes": "The Promisse Neverland",
+  "personagem": "Norman",
+  "tamanho": "10x15"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/GpmgsHbd/Ray.jpg", "The Promisse Neverland"],
+  "titulosVitrine":"The Promisse Neverland - Ray",
+  "precoVitrine": ["39,00","13,00","26,60"],
+  "titulosDetalhes": "The Promisse Neverland",
+  "personagem": "Ray",
+  "tamanho": "10x15"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/pT7SvRbx/Aoi.jpg", "Kimetsu No Yaiba"],
+  "titulosVitrine":"Kimetsu No Yaiba - Aoi",
+  "precoVitrine": ["27,00","9,00","19,30"],
+  "titulosDetalhes": "Kimetsu No Yaiba",
+  "personagem": "Aoi",
+  "tamanho": "10x15"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/W3tyxtyX/Inosuke.jpg", "Kimetsu No Yaiba"],
+  "titulosVitrine":"Kimetsu No Yaiba - Inosuke",
+  "precoVitrine": ["27,00","9,00","19,30"],
+  "titulosDetalhes": "Kimetsu No Yaiba",
+  "personagem": "Inosuke",
+  "tamanho": "10x15"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/fW92X4Qt/Tokito.jpg", "Kimetsu No Yaiba"],
+  "titulosVitrine":"Kimetsu No Yaiba - Tokito",
+  "precoVitrine": ["27,00","9,00","19,30"],
+  "titulosDetalhes": "Kimetsu No Yaiba",
+  "personagem": "Tokito",
+  "tamanho": "16x22"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/G3WfSLxx/Chopper.jpg", "One Piece"],
+  "titulosVitrine":"One Piece - Chopper",
+  "precoVitrine": ["67,00","22,33","60,00"],
+  "titulosDetalhes": "One Piece",
+  "personagem": "Chopper",
+  "tamanho": "28x38"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/JnyTPvyF/Zoro.jpg", "One Piece"],
+  "titulosVitrine":"One Piece - Zoro",
+  "precoVitrine": ["67,00","22,33","60,00"],
+  "titulosDetalhes": "One Piece",
+  "personagem": "Zoro",
+  "tamanho": "28x38"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/fL68FCmR/Sanji.jpg", "One Piece"],
+  "titulosVitrine":"One Piece - Sanji",
+  "precoVitrine": ["67,00","22,33","60,00"],
+  "titulosDetalhes": "One Piece",
+  "personagem": "Sanji",
+  "tamanho": "28x38"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/KY0V9t01/Allmight.jpg", "Boku no Hero"],
+  "titulosVitrine":"Boku no Hero - Allmight",
+  "precoVitrine": ["45,00","15,00","37,00"],
+  "titulosDetalhes": "Boku no Hero",
+  "personagem": "Allmight",
+  "tamanho": "20x30"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/jqw9XwPj/Mulan.jpg", "Disney"],
+  "titulosVitrine":"Disney - Mulan",
+  "precoVitrine": ["38,00","12,66","32,00"],
+  "titulosDetalhes": "Disney",
+  "personagem": "Mulan",
+  "tamanho": "40x40"
+}
+
+###
+POST https://63069afec0d0f2b8011f9944.mockapi.io/produtos
+Content-Type: application/json
+
+{
+  "loja": "GBarc",
+  "imagem": ["https://i.postimg.cc/R0ps140f/Teemo.jpg", "League Of Legends"],
+  "titulosVitrine":"League Of Legends - Teemo",
+  "precoVitrine": ["97,00","32,33","85,59"],
+  "titulosDetalhes": "League Of Legends",
+  "personagem": "Teemo",
+  "tamanho": "20x30#Tinta: Aquarela"
+}
+

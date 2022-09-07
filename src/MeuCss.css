@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: 'Bebas Neue', cursive;
+}
+
+body{
+  background-image: url("https://mfiles.alphacoders.com/953/thumb-1920-953097.png");
+  display: flex;
+  place-items: center;
+  background-color: #94B3FD;
+  color:#4682B4;
+  font-size: 18px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+h1,h2{
+  color: #7B68EE;
+}
+p{
+  font-size: 16px;
+}
+
+#logo{
+  font-family: 'Rampart One', cursive;
+  text-decoration: underline;
+}
+
+.NavBar:hover{
+  background: white;
+  color: black
+}
+
+#imagemDesc:hover{
+  animation-name: crescerImg;
+  animation-duration: 5s;
+  animation-iteration-count:initial;
+}
+
+@keyframes crescerImg{
+  from{
+    transform: scale(1);
+  }
+
+  to{
+    transform: scale(1.1);
+  }
+}
+
+#botaoComprar{
+  animation-name: crescerBottom;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes crescerBottom {
+  from{
+    transform: scale(1);
+  }
+
+  to{
+    transform: scale(1.1);
+  }
+}
+
+#loading{
+  animation: carregar 1s linear infinite;
+}
+
+@keyframes carregar {
+  to{
+    transform: rotate(360deg);
+  }
+}
