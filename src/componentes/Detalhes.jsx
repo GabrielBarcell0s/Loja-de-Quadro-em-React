@@ -96,7 +96,7 @@ function Detalhes() {
           </div>
 
           <div>
-            <h1 style={TituloCss}> The Promisse Neverland</h1>
+            <h1 style={TituloCss}> {produto.titulosDetalhes}</h1>
             <p style={textoCss}>Conheça uma parte do meu trabalho <br />
               Agora você pode decorar seu cantinho favorito <br />
               com seu anime favorito <br />

@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom"
 import styled from '@emotion/styled'
 import Formulario from "./Formulario";
-import Carregamento from "./Carregamento"
 
 class Principal extends React.Component {
   constructor(props) {

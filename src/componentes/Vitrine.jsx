@@ -141,7 +141,7 @@ function Vitrine() {
               <p>ou <strong style={TextoDescCss}>R$ {item.precoVitrine[2]}</strong> via boleto Bancário</p>
               <div style={{display:"flex", justifyContent:"center"}}>
                 <button onClick={somar} style={{ ...BotaoCss, marginRight: "15px" }}>Adicionar ao carinho</button>
-                <Link to={`/detalhes/${i + 20}`}>
+                <Link to={`/detalhes/${item.id}`}>
                   <button style={BotaoCss}>Comprar agora</button>
                 </Link>
               </div>
